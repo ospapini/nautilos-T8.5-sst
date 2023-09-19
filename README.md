@@ -2,6 +2,8 @@
 
 This repository contains a Python 3 implementation of the Mesoscale Events Classifier (MEC) algorithm [\[1\]](#applsci-mec), which has been developed as part of the activities of Task 8.5 of the [NAUTILOS](https://www.nautilos-h2020.eu) project. This algorithm uses Sea Surface Temperature (SST) data coming from satellite missions to detect and classify patterns associated with "mesoscale events" in an upwelling ecosystem.
 
+This work is part of a project that has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 101000825 (NAUTILOS).
+
 ## Files Description
 
 ### spaghetti_plot.py
