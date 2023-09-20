@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite it as below."
+authors:
+  - family-names: "Papini"
+    given-names: "Oscar"
+    orcid: "https://orcid.org/0000-0003-2069-5068"
+title: "MEC: Mesoscale Events Classifier"
+repository-code: "https://github.com/ospapini/nautilos-T8.5-sst"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Pieri"
+      given-names: "Gabriele"
+      orcid: "https://orcid.org/0000-0001-5068-2861"
+    - family-names: "Janeiro"
+      given-names: "João"
+      orcid: "https://orcid.org/0000-0002-6241-8520"
+    - family-names: "Martins"
+      given-names: "Flávio"
+      orcid: "https://orcid.org/0000-0002-9863-6255"
+    - family-names: "Papini"
+      given-names: "Oscar"
+      orcid: "https://orcid.org/0000-0003-2069-5068"
+    - family-names: "Reggiannini"
+      given-names: "Marco"
+      orcid: "https://orcid.org/0000-0002-4872-9541"
+  title: "MEC: A Mesoscale Events Classifier for Oceanographic Imagery"
+  journal: "Applied Sciences"
+  volume: 13
+  issue: 3
+  start: 1565
+  year: 2023
+  doi: "10.3390/app13031565"
