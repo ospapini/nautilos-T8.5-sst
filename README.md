@@ -1,4 +1,4 @@
-# nautilos-T8.5-sst
+# MEC: Mesoscale Events Classifier
 
 This repository contains a Python 3 implementation of the Mesoscale Events Classifier (MEC) algorithm [\[1\]](#applsci-mec), which has been developed as part of the activities of Task 8.5 of the [NAUTILOS](https://www.nautilos-h2020.eu) project. This algorithm uses Sea Surface Temperature (SST) data coming from satellite missions to detect and classify patterns associated with "mesoscale events" in an upwelling ecosystem.
 
@@ -21,6 +21,27 @@ This file contains scripts that extract the SST information from satellite produ
 ### mec_geodata.py
 
 This file contains two utility scripts that produce some arrays with geographical information used by MEC.
+
+## How to Cite
+
+If you use this tool, please cite
+
+Gabriele Pieri, João Janeiro, Flávio Martins, Oscar Papini and Marco Reggiannini. "MEC: A Mesoscale Events Classifier for Oceanographic Imagery". In: _Applied Sciences_ 13.3, 1565 (2023). DOI: [10.3390/app13031565](https://doi.org/10.3390/app13031565).
+
+Corresponding BibTeX entry:
+
+```
+@article{app13031565,
+author = {Pieri, Gabriele and Janeiro, João and Martins, Flávio and Papini, Oscar and Reggiannini, Marco},
+title = {{MEC: A Mesoscale Events Classifier for Oceanographic Imagery}},
+journal = {Applied Sciences},
+volume = {13},
+number = {3},
+pages = {1565},
+year = {2023},
+doi = {10.3390/app13031565},
+}
+```
 
 ## References
 
